@@ -12,23 +12,25 @@ To compile and run the project, follow these steps:
 1. Install a C++ IDE CodeBlocks on your system.
 
 2. Clone the repository:
+   ```bash
    git clone https://github.com/Bhawna-Vishwakarma/Doraemon.git
+   ```
 
 Open the project in your preferred C++ IDE or editor - CodeBlocks.
 
 Compile and run the doraemon.cpp file.
 
-#Usage
+# Usage
 
 Once the program is compiled and executed, you will see the ASCII art representation of Doraemon printed on the console screen. The asterisk characters symbol are strategically arranged to create the visual appearance of Doraemon.
 
 Feel free to modify the code to customize the output or experiment with different characters and symbols to create your own ASCII art.
 
-#Contributing
+# Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or additional features for the Printing Doraemon project, please feel free to open an issue or submit a pull request.
 
-#Contact
+# Contact
 
 If you have any questions or want to reach out regarding this project, you can contact me at bvishwakarma1008@gmail.com. You can also find more of my projects on GitHub.
 
